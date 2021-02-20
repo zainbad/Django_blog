@@ -7,7 +7,7 @@ Django_blog is bloggin web application made with django, javascript and bootstra
 .User Access control with mixins and decorators<br/>
 .Uses both Classed based and Function based views<br/>
 .Password reset with Gmail<br/>
-.User Profile<br/>
+.User Profile Creation using signals<br/>
 .Comment section<br/>
 .RichtextField with ckeditor<br/>
 .Post tagging with Taggit Package<br/>
